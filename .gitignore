@@ -1,0 +1,6 @@
+node_modules/
+.env
+dist/
+.DS_Store
+frontend-react/node_modules/
+Pre_Entrega_TechLab/node_modules/

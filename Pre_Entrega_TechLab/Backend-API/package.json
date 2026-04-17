@@ -1,0 +1,12 @@
+{
+  "name": "pre_entrega_techlab",
+  "version": "1.0.0",
+  "description": "Proyecto integrador para TechLab",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Brian Sastre",
+  "license": "ISC"
+}

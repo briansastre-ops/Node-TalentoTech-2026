@@ -1,0 +1,14 @@
+# Dependencias
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Entorno (por si después usas variables de entorno)
+.env
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
