@@ -1,0 +1,16 @@
+{
+  "name": "techlab-server",
+  "version": "1.0.0",
+  "description": "Proyecto integrador base para TechLab",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Brian Sastre",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6"
+  }
+}
